@@ -24482,12 +24482,9 @@
     "dependencies": {
       "Microsoft.Net.Http": "2.2.29",
       "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
+      "Newtonsoft.Json": "10.0.3",
       "System.Net.Http": "4.3.3",
-      "Xamarin.Forms": "2.4.0.280",
-      "Newtonsoft.Json": {
-        "target": "Package",
-        "version": "[10.0.3, )"
-      }
+      "Xamarin.Forms": "2.4.0.280"
     },
     "frameworks": {
       "uap10.0.10586": {}
